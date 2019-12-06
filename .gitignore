@@ -1,0 +1,5 @@
+*.opendb
+
+*.db
+
+*.VC.db

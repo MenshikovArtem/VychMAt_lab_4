@@ -9,6 +9,11 @@ using namespace std;
 int main()
 {
     cout << "Hello World!"<<endl;
+
+	if (true) {
+		cout << "Useless if" << endl;
+	}
+
 	return 0;
 }
 
